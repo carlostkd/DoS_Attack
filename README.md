@@ -1,6 +1,6 @@
-<p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">MHDDoS - DDoS Attack Script With 40 Methods</h1>
+
+<h1 align="center">DDoS Attack Script to help Ukraine</h1>
 
 <em><h5 align="center">(Code Lang - Python 3)</h5></em>
 
