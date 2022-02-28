@@ -7,8 +7,7 @@
 
 <p align="center">You are advised to use a vpn! Please attack only russian websites.</p>
 
-<p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
-<p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p>
+
 
 
 
