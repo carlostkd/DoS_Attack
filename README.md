@@ -2,7 +2,7 @@
 
 <h1 align="center">DDoS Attack Script to help Ukraine</h1>
 
-<em><h5 align="center">(Code Lang - Python 3)</h5></em>
+
 
 
 <p align="center">You are advised to use a vpn! Please attack only russian websites.</p>
