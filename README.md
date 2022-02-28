@@ -31,7 +31,7 @@ pip3 install -r requirements.txt
 python3 start.py udp <ip>:53 1 100
 ```
 
-currently russian dns targets
+currently sberbaank russian dns targets
 ```console
 194.54.14.185:53
 194.54.14.187:53
