@@ -32,11 +32,12 @@ python3 start.py udp <ip>:53 1 100
 ```
 
 currently russian targets ips
-
+```console
 194.54.14.185:53
 194.54.14.187:53
 194.67.7.1:53
 194.67.2.109:53
+```
 
 
 
