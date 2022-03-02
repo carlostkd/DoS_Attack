@@ -31,8 +31,12 @@ pip3 install -r requirements.txt
 python3 start.py udp <ip>:53 1 100
 ```
 
-currently sberbaank russian dns targets
+currently dns targets make them cry!
 ```console
+https://ddos-guard.net/ru
+https://stormwall.pro/
+https://qrator.net/ru/
+https://solidwall.ru/
 194.54.14.185:53
 194.54.14.187:53
 194.67.7.1:53
