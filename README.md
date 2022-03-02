@@ -13,7 +13,7 @@
 
 ### Getting Started
 
-**If you dont have metasploit or any other tool you can use this tool
+If you dont have metasploit or any other tool you can use this tool
 
 **Clone and Install Script**
 
