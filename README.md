@@ -34,6 +34,12 @@ python3 start.py udp <ip>:53 1 100
 
 currently dns targets make them cry!
 ```console
+Killing Russian Railway please join!
+
+217.175.155.100 : 53 UDP
+217.175.155.12 : 53 UDP
+217.175.140.71 : 53 UDP
+
 https://ddos-guard.net/ru
 https://stormwall.pro/
 https://qrator.net/ru/
