@@ -34,6 +34,12 @@ python3 start.py udp <ip>:53 1 100
 
 currently dns targets make them cry!
 ```console
+ok.ru social network
+5.61.23.11 : 80 HTTP / 443 HTTPS
+217.20.155.13 : 80 HTTP / 443 HTTPS
+217.20.147.1 : 80 HTTP / 443 HTTPS
+
+
 Killing Russian Railway please join!
 
 217.175.155.100 : 53 UDP
