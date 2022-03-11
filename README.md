@@ -34,6 +34,34 @@ python3 start.py udp <ip>:53 1 100
 
 currently dns targets make them cry!
 ```console
+Keep on rolling rolling with state companies. Rostech the importer of high tech for Russian army is the highest priority now. 
+
+https://rostec.ru/ 178.248.232.115 : 80 443
+https://scloud.rostec.ru/login 188.128.56.24 : 80 443
+https://vcs.rostec.ru/ 188.128.102.66 : 80 443 1935
+https://lk.rostec.ru/Account/LogIn?ReturnUrl=%2F 81.1.223.37 : 53 80 443
+https://smi.rostec.ru/user 89.111.133.98 : 22 80 443
+http://v1.rostec.ru/, http://v2.rostec.ru/ 185.22.61.90 : 22 80 443
+https://vks3.rostec.ru/ 188.128.102.68 : 80 443 993 4443 4446
+
+Electronic signature services. Start with:
+https://esia.gosuslugi.ru (213.59.254.8)
+https://iecp.ru/ep/ep-verification (185.71.67.237)
+https://e-trust.gosuslugi.ru (185.194.34.142)
+https://gu.spb.ru (212.164.138.169)
+https://uc-osnovanie.ru/ (185.71.67.237)
+
+There are long queue to ATMs in Russia recently. Let’s make it even longer with shutting down online banking
+https://online.vtb.ru (185.179.146.43)
+https://online.sberbank.ru/CSAFront/index.do#/ (194.54.14.131)
+https://online.gpb.ru/login (195.225.39.107)
+https://alfabank.ru/everyday/online/ (217.12.104.100)
+https://online.rshb.ru  (194.190.12.167) 
+https://online.sovcombank.ru/ (178.248.232.153)
+https://online.mkb.ru/ (178.248.235.57)
+
+
+
 Myr the payment processing system governed by https://www.nspk.ru 
 
 acs.vendorcert.mirconnect.ru    195.208.109.58
