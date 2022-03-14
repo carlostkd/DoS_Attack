@@ -34,6 +34,26 @@ python3 start.py udp <ip>:53 1 100
 
 currently dns targets make them cry!
 ```console
+Time to go for a big fish. The payment service below used to overcome sanctions. Kill it please. 
+
+https://koronapay.com  194.85.18.32 : 80, 443
+https://api.koronapay.com 194.85.18.31 : 80, 443
+
+Don’t stop on previous targets please! Add few more to your list. There are public procurement platforms that helps Russians to get around the sanctions. 
+
+https://etpgpb.ru (94.79.10.194)
+https://api.etpgpb.ru (87.245.170.26) 
+https://etp.gpb.ru/ (94.79.10.194)
+https://passport.etpgpb.ru (94.79.10.114)
+https://gos.etpgpb.ru (91.225.24.41)
+https://inter-rao.etpgpb.ru (94.79.10.194)
+https://rosnedra.etpgpb.ru (94.79.10.194)
+https://gpn.etpgpb.ru (94.79.10.194)
+https://geh.etpgpb.ru (94.79.10.194)
+https://trade.etpgpb.ru (94.79.10.194)
+https://gb.etpgpb.ru (94.79.10.194)
+
+
 Keep on rolling rolling with state companies. Rostech the importer of high tech for Russian army is the highest priority now. 
 
 https://rostec.ru/ 178.248.232.115 : 80 443
